@@ -1,0 +1,11 @@
+{
+  "title": "Italian projective geometry goes free",
+  "description": "<p>Preprint (32 pages) with code for its computations.</p><p>We develop basic free projective geometry, in the old style, with all the objects being given by explicit generators and relations. We construct free analogues of the Segre and Veronese embeddings, of the Grassmannians, flag manifolds and Stiefel manifolds, and of the determinantal varieties. The torus fixed points of the free full flag manifold are given by the quantum permutation group S<sub>N</sub><sup>+</sup>, and the free Grassmannians are multiplicity free, with the same spectrum as the free projective spaces, and, at N &ge; 3, are not quotient spaces of O<sub>N</sub><sup>+</sup>. We also discuss integration, with free Poisson laws appearing, the heat equation, with a threshold for the heat trace coming from the exponential growth of the multiplicities, the arithmetic aspects, and the relation with questions from particle physics.</p><p>The projective quantum isometry groups of the real, complex and free Grassmannians are PO<sub>N</sub> &sub; PU<sub>N</sub> &sub; PO<sub>N</sub><sup>+</sup>, the complex case being computer-assisted, via an exact Tannakian certificate over Q(N).</p>",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "creators": [
+    {"name": "Opus, Claude"},
+    {"name": "Banica, Teodor", "affiliation": "CY Cergy Paris Université", "orcid": "0000-0003-4680-0364"}
+  ],
+  "keywords": ["free projective space", "free Grassmannian", "free flag manifold", "free orthogonal quantum group", "quantum isometry", "Weingarten formula", "free Poisson law", "Jarlskog invariant"]
+}
