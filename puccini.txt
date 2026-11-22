@@ -1,0 +1,4 @@
+products of 1 entries of p: dim 9, adding the X_abcd: dim 64
+products of 2 entries of p: dim 64, adding the X_abcd: dim 119
+products of 3 entries of p: dim 441, adding the X_abcd: dim 496
+full flag, N=3: products of 2 generators: dim 237, adding the Y_abcd: dim 292

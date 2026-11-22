@@ -1,0 +1,28 @@
+progress: Segre model M=2 N=3
+Segre M=2 N=3                                |x-xbar|=7.9e-17  |sum x^2-1|=2.5e-16  |p^2-p|=2.8e-16  |Tr p-1|=2.8e-16  |px-x|=2.5e-16
+progress: Segre model M=3 N=3
+Segre M=3 N=3                                |x-xbar|=3.2e-17  |sum x^2-1|=2.9e-15  |p^2-p|=3.3e-16  |Tr p-1|=6.7e-16  |px-x|=5.6e-16
+progress: Segre model M=3 N=4
+Segre M=3 N=4                                |x-xbar|=3.1e-17  |sum x^2-1|=4.4e-16  |p^2-p|=1.1e-16  |Tr p-1|=2.2e-16  |px-x|=1.7e-16
+progress: partial isometry model M=3 N=4 r=2
+partial isometries M=3 N=4 r=2               |p*-p|=1.1e-16  |p^2-p|=8.9e-16  |Tr p-r|=1.3e-15  |sum x^2-1|=4.4e-16  |px-x|=5.0e-16  |xx^t-p/r|=1.7e-16
+progress: partial isometry model M=4 N=5 r=2
+partial isometries M=4 N=5 r=2               |p*-p|=8.1e-17  |p^2-p|=8.9e-16  |Tr p-r|=1.3e-15  |sum x^2-1|=2.2e-16  |px-x|=4.6e-16  |xx^t-p/r|=1.1e-16
+progress: partial isometry model M=4 N=4 r=3
+partial isometries M=4 N=4 r=3               |p*-p|=6.6e-17  |p^2-p|=6.7e-16  |Tr p-r|=8.9e-16  |sum x^2-1|=6.7e-16  |px-x|=3.3e-16  |xx^t-p/r|=1.1e-16
+progress: Hermitian model N=3 r=1
+Grassmannian into D^+, r=1 N=3               |x*-x|=1.2e-16  |sum xx*-1|=5.7e-16  |px-x|=2.4e-16  |xp-x|=2.4e-16
+O_N^+ coaction N=3 r=1                       |uu^t-1|=5.6e-16  |X*-X|=1.1e-16  |sum XX*-1|=1.0e-15  |P^2-P|=4.5e-16  |Tr P-r|=5.6e-16  |PX-X|=4.5e-16
+progress: Hermitian model N=4 r=2
+Grassmannian into D^+, r=2 N=4               |x*-x|=3.6e-17  |sum xx*-1|=1.3e-15  |px-x|=4.4e-16  |xp-x|=4.4e-16
+O_N^+ coaction N=4 r=2                       |uu^t-1|=5.6e-16  |X*-X|=6.2e-17  |sum XX*-1|=1.6e-15  |P^2-P|=1.2e-15  |Tr P-r|=1.8e-15  |PX-X|=8.9e-16
+progress: Hermitian model N=5 r=2
+Grassmannian into D^+, r=2 N=5               |x*-x|=5.4e-17  |sum xx*-1|=1.1e-15  |px-x|=7.8e-16  |xp-x|=7.8e-16
+O_N^+ coaction N=5 r=2                       |uu^t-1|=4.4e-16  |X*-X|=1.1e-16  |sum XX*-1|=8.9e-16  |P^2-P|=8.9e-16  |Tr P-r|=1.3e-15  |PX-X|=6.1e-16
+progress: Hermitian model N=5 r=3
+Grassmannian into D^+, r=3 N=5               |x*-x|=4.4e-17  |sum xx*-1|=4.7e-16  |px-x|=4.4e-16  |xp-x|=4.4e-16
+O_N^+ coaction N=5 r=3                       |uu^t-1|=8.9e-16  |X*-X|=8.4e-17  |sum XX*-1|=4.4e-16  |P^2-P|=5.2e-16  |Tr P-r|=9.0e-16  |PX-X|=3.0e-16
+progress: r=1 sphere model
+sphere into D^+, r=1 N=3                     |x*-x|=3.6e-17  |sum xx*-1|=7.8e-16  |x^2-x|=2.4e-16
+sphere into D^+, r=1 N=4                     |x*-x|=3.3e-17  |sum xx*-1|=1.3e-15  |x^2-x|=3.3e-16
+done
